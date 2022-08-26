@@ -1,3 +1,7 @@
+## noughts-and-crosses
+
+I built this app following a <a href="https://reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment">tutorial</a> using React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
